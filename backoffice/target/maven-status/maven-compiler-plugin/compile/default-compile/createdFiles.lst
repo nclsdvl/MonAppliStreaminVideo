@@ -1,0 +1,4 @@
+com\directmedia\onlinestore\backoffice\controller\HomeServlet.class
+com\directmedia\onlinestore\backoffice\controller\AddworkServlet.class
+com\directmedia\onlinestore\backoffice\controller\AuthentificationServlet.class
+com\directmedia\onlinestore\backoffice\controller\CatalogueServlet.class
